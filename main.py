@@ -1,5 +1,5 @@
 import pandas
 import calculate
 
-print("Hello World!")
+print("Hello!")
 print(calculate.x)
